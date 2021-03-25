@@ -9,6 +9,8 @@ djangorestframework = "*"
 psycopg2-binary = "*"
 
 [dev-packages]
+mypy = "*"
+django-stubs = "*"
 
 [requires]
 python_version = "3.9"
